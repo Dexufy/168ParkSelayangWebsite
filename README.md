@@ -109,9 +109,9 @@ Then open `http://localhost:8000/` in your browser.
 
 ## Author
 
-Developed by **Dexufy**.
+Developed by **Dexufy** and **tristantze**.
 
-GitHub: [@Dexufy](https://github.com/Dexufy)
+GitHub: [@Dexufy](https://github.com/Dexufy) / [@tristantze](https://github.com/tristantze)
 
 ## License
 
